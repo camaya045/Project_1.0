@@ -12,7 +12,6 @@ body {
 #signup-form {
   display: flex;
   flex-direction: column; 
-  justify-center: center;
   padding: 2em;
   background-color: brown;
   width: 50%;
