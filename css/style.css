@@ -30,9 +30,12 @@ body {
   clor: #666;
 }
 form {
-	
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
 }
 form label {
-	
+  font-weight: bold;
+  color: #333;
 }
 
