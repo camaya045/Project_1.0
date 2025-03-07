@@ -18,10 +18,16 @@ body {
   width: 50%;
 }
 #signup-form h1 {
-	
+  text-align: center;
+  margin-bottom: 1em;
+  font-size: 2em;
+  color: #333
 }
 #signup-form div p {
-	
+  text-align: center;
+  margin-bottom: 1em;
+  font-size: 1em;
+  clor: #666;
 }
 form {
 	
