@@ -14,7 +14,7 @@ body {
   flex-direction: column; 
   justify-center: center;
   padding: 2em;
-  background-color: black;
+  background-color: brown;
   width: 50%;
 }
 #signup-form h1 {
