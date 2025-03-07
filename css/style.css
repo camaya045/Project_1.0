@@ -49,6 +49,7 @@ form input[type="submit"] {
 }
 .image-container{
   background-image: url('../images/clashofclans.jpg');
+  display: flex;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
