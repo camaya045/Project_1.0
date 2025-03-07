@@ -16,6 +16,7 @@ body {
   padding: 2em;
   background-color: brown;
   width: 50%;
+  height: 100%;
 }
 #signup-form h1 {
   text-align: center;
@@ -50,6 +51,7 @@ form input[type="submit"] {
 }
 .image-container {
   width: 50%;
+  height: 100%;
   background-image: url('..images/clashofclans.jpg');
   background-repeat: no-repeat;
   background-position: center;
