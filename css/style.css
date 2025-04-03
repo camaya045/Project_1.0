@@ -24,11 +24,12 @@ body {
   font-size: 2em;
   color: #333
 }
-#signup-form div p {
+#signup-form p {
   text-align: center;
-  margin-bottom: 1em;
+  margin-bottom: 1.5em;
   font-size: 1em;
   color: #333;
+  line-height: 1.6;
 }
 form {
   display: flex;
