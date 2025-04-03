@@ -57,14 +57,17 @@ form input[type="submit"] {
   background-position: center;
   background-size: cover;
 }
-@media(min-width: 600px) {
+@media(max-width: 1024px) {
   #signup-form {
+	width: 90%;
 	max-width: 600px;
 	padding: 2em;
   }
 	
   inpput, buttom {
+	width: 90%
 	font-size: 1.3em;
+	padding: 10px;
   }
 }
 @media(min-width: 1024px) {
@@ -81,3 +84,4 @@ form input[type="submit"] {
     font-size: 1.3 em;
   }
 }
+@
