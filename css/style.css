@@ -57,10 +57,9 @@ form input[type="submit"] {
   background-position: center;
   background-size: cover;
 }
-@media(max-width: 1024px) {
+@media(min-width: 400px) {
   #signup-form {
 	width: 90%;
-	max-width: 600px;
 	padding: 2em;
   }
 	
@@ -70,7 +69,7 @@ form input[type="submit"] {
 	padding: 10px;
   }
 }
-@media(min-width: 1024px) {
+@media(min-width: 600px) {
   #signup-form {
 	max-width: 800x;
 	padding: 3em;
