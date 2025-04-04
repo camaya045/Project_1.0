@@ -1,6 +1,6 @@
-document.addEventListener("DOMContentLoaded", Function () {
+document.addEventListener("DOMContentLoaded", function () {
   const ageCheckbox = document.getElementById("age");
-  const form = document.getElementById("signupForm");
+  const form = document.getElementById("signup-form");
 	
   form.addEventListener("submit", function (event) {
     if(!ageCheckbox.checked) {
