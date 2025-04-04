@@ -57,9 +57,10 @@ form input[type="submit"] {
   background-position: center;
   background-size: cover;
 }
-@media(min-width: 400px) {
+@media(max-width: 1024px) {
   #signup-form {
 	width: 90%;
+	max-width: 600px;
 	padding: 2em;
   }
 	
